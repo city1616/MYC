@@ -37,3 +37,12 @@
 
 ---------------------------------
 
+# Project Title
+> <h3>MYC ; Make Your Chord</h3>
+> (ver. 2021 Capstone Design)
+> Sheet Music Collection Programing using DeepLearning
+> develop by 문승우, 김동관
+# Detail
+> Library : <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white"/></a>, <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white"/></a>, librosa, pyknon, music21
+> Tool : <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=Xcode&logoColor=white"/></a>(ver. 12.5), Visual Studio Code(ver. 1.57.1)
+> Language : <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>(ver. 3.7), <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=Swift&logoColor=white"/></a>(ver. 5.4), <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/></a>(ver. 7.3.24)
